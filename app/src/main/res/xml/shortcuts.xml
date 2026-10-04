@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_stat_call"
+        android:shortcutDisabledMessage="@string/shortcut_trigger_call_disabled"
+        android:shortcutId="trigger_escape_call"
+        android:shortcutLongLabel="@string/shortcut_trigger_call"
+        android:shortcutShortLabel="@string/shortcut_trigger_call_short">
+        <intent
+            android:action="com.example.escapecall.TRIGGER_CALL"
+            android:targetClass="com.example.escapecall.MainActivity"
+            android:targetPackage="com.example.escapecall" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
