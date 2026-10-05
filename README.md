@@ -4,6 +4,15 @@ EscapeCall is a local-first Android safety prototype that presents a believable 
 
 > EscapeCall is a prototype for personal safety workflows. It is not a replacement for emergency services or a verified emergency communications system.
 
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/89cb7f4a-13f4-4d8d-9a28-2d7fde1a539a" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6a8a9137-83a8-473e-a9bb-9da800ffe56f" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/4fccc375-02bb-4158-b920-3f0aa514d507" />
+
+
+
+
+
 ## What It Does
 
 - Shows a full-screen incoming-call experience with accept and decline actions.
